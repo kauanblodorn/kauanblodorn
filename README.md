@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kauanblodorn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in accordion
+- 🌱 I’m currently learning computing
+- 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me? kauanblodorn@gmail.com
 
 <!---
